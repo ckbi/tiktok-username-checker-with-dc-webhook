@@ -1,4 +1,2 @@
-# tiktok-username-checker-with-dc-webhook
-Tiktok username checker with webhook sender 
-Owner @ckbi
-website: und3fy.com
+<h3>TikTok username checker </h3>
+<h6>made by @ckbi</h6>
